@@ -1,0 +1,6054 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "BLM_MELB_June",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1424,
+				"Pedestrian Volume Average" : 1133,
+				"Increase%" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1010,
+				"Pedestrian Volume Average" : 719,
+				"Increase%" : 40
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1071,
+				"Pedestrian Volume Average" : 672,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1349,
+				"Pedestrian Volume Average" : 895,
+				"Increase%" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 803,
+				"Pedestrian Volume Average" : 524,
+				"Increase%" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 480,
+				"Pedestrian Volume Average" : 511,
+				"Increase%" : -6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 248,
+				"Pedestrian Volume Average" : 260,
+				"Increase%" : -5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 281,
+				"Pedestrian Volume Average" : 271,
+				"Increase%" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 74,
+				"Pedestrian Volume Average" : 81,
+				"Increase%" : -9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 52,
+				"Pedestrian Volume Average" : 46,
+				"Increase%" : 13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 75,
+				"Pedestrian Volume Average" : 66,
+				"Increase%" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 236,
+				"Pedestrian Volume Average" : 214,
+				"Increase%" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 521,
+				"Pedestrian Volume Average" : 137,
+				"Increase%" : 280
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 673,
+				"Pedestrian Volume Average" : 434,
+				"Increase%" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 225,
+				"Pedestrian Volume Average" : 117,
+				"Increase%" : 92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 155,
+				"Pedestrian Volume Average" : 84,
+				"Increase%" : 85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 454,
+				"Pedestrian Volume Average" : 286,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 252,
+				"Pedestrian Volume Average" : 107,
+				"Increase%" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1239,
+				"Pedestrian Volume Average" : 1181,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 100,
+				"Pedestrian Volume Average" : 82,
+				"Increase%" : 22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 447,
+				"Pedestrian Volume Average" : 406,
+				"Increase%" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 894,
+				"Pedestrian Volume Average" : 941,
+				"Increase%" : -5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 914,
+				"Pedestrian Volume Average" : 916,
+				"Increase%" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 244,
+				"Pedestrian Volume Average" : 246,
+				"Increase%" : -1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 326,
+				"Pedestrian Volume Average" : 297,
+				"Increase%" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 243,
+				"Pedestrian Volume Average" : 233,
+				"Increase%" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 365,
+				"Pedestrian Volume Average" : 250,
+				"Increase%" : 46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 164,
+				"Pedestrian Volume Average" : 156,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 123,
+				"Pedestrian Volume Average" : 55,
+				"Increase%" : 124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 319,
+				"Pedestrian Volume Average" : 749,
+				"Increase%" : -57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 112,
+				"Pedestrian Volume Average" : 68,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 132,
+				"Pedestrian Volume Average" : 110,
+				"Increase%" : 20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 78,
+				"Pedestrian Volume Average" : 41,
+				"Increase%" : 90
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 174,
+				"Pedestrian Volume Average" : 85,
+				"Increase%" : 105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 41,
+				"Pedestrian Volume Average" : 38,
+				"Increase%" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 33,
+				"Pedestrian Volume Average" : 29,
+				"Increase%" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 519,
+				"Pedestrian Volume Average" : 418,
+				"Increase%" : 24
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 1565,
+				"Pedestrian Volume Average" : 919,
+				"Increase%" : 70
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 43,
+				"Pedestrian Volume Average" : 31,
+				"Increase%" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 858,
+				"Pedestrian Volume Average" : 735,
+				"Increase%" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 739,
+				"Pedestrian Volume Average" : 1617,
+				"Increase%" : -54
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 336,
+				"Pedestrian Volume Average" : 421,
+				"Increase%" : -20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 439,
+				"Pedestrian Volume Average" : 396,
+				"Increase%" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 139,
+				"Pedestrian Volume Average" : 178,
+				"Increase%" : -22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 308,
+				"Pedestrian Volume Average" : 196,
+				"Increase%" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 225,
+				"Pedestrian Volume Average" : 195,
+				"Increase%" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 116,
+				"Pedestrian Volume Average" : 92,
+				"Increase%" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 237,
+				"Pedestrian Volume Average" : 258,
+				"Increase%" : -8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 219,
+				"Pedestrian Volume Average" : 230,
+				"Increase%" : -5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 150,
+				"Pedestrian Volume Average" : 77,
+				"Increase%" : 95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 442,
+				"Pedestrian Volume Average" : 327,
+				"Increase%" : 35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 69,
+				"Pedestrian Volume Average" : 51,
+				"Increase%" : 35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 310,
+				"Pedestrian Volume Average" : 274,
+				"Increase%" : 13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "12",
+				"Pedestrian Volume BLM" : 790,
+				"Pedestrian Volume Average" : 618,
+				"Increase%" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 2298,
+				"Pedestrian Volume Average" : 1376,
+				"Increase%" : 67
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1269,
+				"Pedestrian Volume Average" : 903,
+				"Increase%" : 41
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1634,
+				"Pedestrian Volume Average" : 836,
+				"Increase%" : 95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1745,
+				"Pedestrian Volume Average" : 1052,
+				"Increase%" : 66
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1002,
+				"Pedestrian Volume Average" : 572,
+				"Increase%" : 75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 563,
+				"Pedestrian Volume Average" : 583,
+				"Increase%" : -3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 221,
+				"Pedestrian Volume Average" : 267,
+				"Increase%" : -17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 321,
+				"Pedestrian Volume Average" : 270,
+				"Increase%" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 63,
+				"Pedestrian Volume Average" : 74,
+				"Increase%" : -15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 54,
+				"Pedestrian Volume Average" : 44,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 79,
+				"Pedestrian Volume Average" : 64,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 284,
+				"Pedestrian Volume Average" : 227,
+				"Increase%" : 25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 691,
+				"Pedestrian Volume Average" : 168,
+				"Increase%" : 311
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 815,
+				"Pedestrian Volume Average" : 449,
+				"Increase%" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 642,
+				"Pedestrian Volume Average" : 112,
+				"Increase%" : 473
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 627,
+				"Pedestrian Volume Average" : 88,
+				"Increase%" : 613
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 666,
+				"Pedestrian Volume Average" : 413,
+				"Increase%" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 395,
+				"Pedestrian Volume Average" : 120,
+				"Increase%" : 229
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1551,
+				"Pedestrian Volume Average" : 1318,
+				"Increase%" : 18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 159,
+				"Pedestrian Volume Average" : 85,
+				"Increase%" : 87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 692,
+				"Pedestrian Volume Average" : 430,
+				"Increase%" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1028,
+				"Pedestrian Volume Average" : 1093,
+				"Increase%" : -6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1053,
+				"Pedestrian Volume Average" : 869,
+				"Increase%" : 21
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 369,
+				"Pedestrian Volume Average" : 230,
+				"Increase%" : 60
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 559,
+				"Pedestrian Volume Average" : 339,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 439,
+				"Pedestrian Volume Average" : 304,
+				"Increase%" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 539,
+				"Pedestrian Volume Average" : 296,
+				"Increase%" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 258,
+				"Pedestrian Volume Average" : 178,
+				"Increase%" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 661,
+				"Pedestrian Volume Average" : 63,
+				"Increase%" : 949
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 319,
+				"Pedestrian Volume Average" : 815,
+				"Increase%" : -61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 134,
+				"Pedestrian Volume Average" : 73,
+				"Increase%" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 181,
+				"Pedestrian Volume Average" : 133,
+				"Increase%" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 123,
+				"Pedestrian Volume Average" : 67,
+				"Increase%" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 889,
+				"Pedestrian Volume Average" : 80,
+				"Increase%" : 1011
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 97,
+				"Pedestrian Volume Average" : 41,
+				"Increase%" : 137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 82,
+				"Pedestrian Volume Average" : 27,
+				"Increase%" : 204
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 914,
+				"Pedestrian Volume Average" : 514,
+				"Increase%" : 78
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 2061,
+				"Pedestrian Volume Average" : 1013,
+				"Increase%" : 103
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 49,
+				"Pedestrian Volume Average" : 38,
+				"Increase%" : 29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1063,
+				"Pedestrian Volume Average" : 810,
+				"Increase%" : 31
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 866,
+				"Pedestrian Volume Average" : 1483,
+				"Increase%" : -42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 359,
+				"Pedestrian Volume Average" : 393,
+				"Increase%" : -9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 570,
+				"Pedestrian Volume Average" : 396,
+				"Increase%" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 177,
+				"Pedestrian Volume Average" : 170,
+				"Increase%" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 338,
+				"Pedestrian Volume Average" : 260,
+				"Increase%" : 30
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 303,
+				"Pedestrian Volume Average" : 219,
+				"Increase%" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 147,
+				"Pedestrian Volume Average" : 93,
+				"Increase%" : 58
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 252,
+				"Pedestrian Volume Average" : 269,
+				"Increase%" : -6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 395,
+				"Pedestrian Volume Average" : 240,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 196,
+				"Pedestrian Volume Average" : 97,
+				"Increase%" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1120,
+				"Pedestrian Volume Average" : 356,
+				"Increase%" : 215
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 96,
+				"Pedestrian Volume Average" : 66,
+				"Increase%" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 557,
+				"Pedestrian Volume Average" : 363,
+				"Increase%" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "13",
+				"Pedestrian Volume BLM" : 1331,
+				"Pedestrian Volume Average" : 772,
+				"Increase%" : 72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 2735,
+				"Pedestrian Volume Average" : 1575,
+				"Increase%" : 74
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1496,
+				"Pedestrian Volume Average" : 943,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1498,
+				"Pedestrian Volume Average" : 913,
+				"Increase%" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1837,
+				"Pedestrian Volume Average" : 1097,
+				"Increase%" : 67
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1258,
+				"Pedestrian Volume Average" : 622,
+				"Increase%" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 621,
+				"Pedestrian Volume Average" : 649,
+				"Increase%" : -4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 203,
+				"Pedestrian Volume Average" : 285,
+				"Increase%" : -29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 360,
+				"Pedestrian Volume Average" : 277,
+				"Increase%" : 30
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 91,
+				"Pedestrian Volume Average" : 101,
+				"Increase%" : -10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 55,
+				"Pedestrian Volume Average" : 47,
+				"Increase%" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 81,
+				"Pedestrian Volume Average" : 57,
+				"Increase%" : 42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 255,
+				"Pedestrian Volume Average" : 221,
+				"Increase%" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 676,
+				"Pedestrian Volume Average" : 171,
+				"Increase%" : 295
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1060,
+				"Pedestrian Volume Average" : 471,
+				"Increase%" : 125
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 903,
+				"Pedestrian Volume Average" : 113,
+				"Increase%" : 699
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1277,
+				"Pedestrian Volume Average" : 77,
+				"Increase%" : 1558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 706,
+				"Pedestrian Volume Average" : 409,
+				"Increase%" : 73
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 473,
+				"Pedestrian Volume Average" : 122,
+				"Increase%" : 288
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1483,
+				"Pedestrian Volume Average" : 1417,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 150,
+				"Pedestrian Volume Average" : 97,
+				"Increase%" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 559,
+				"Pedestrian Volume Average" : 488,
+				"Increase%" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1164,
+				"Pedestrian Volume Average" : 1111,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 940,
+				"Pedestrian Volume Average" : 763,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 223,
+				"Pedestrian Volume Average" : 240,
+				"Increase%" : -7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 765,
+				"Pedestrian Volume Average" : 345,
+				"Increase%" : 122
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 466,
+				"Pedestrian Volume Average" : 323,
+				"Increase%" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 607,
+				"Pedestrian Volume Average" : 287,
+				"Increase%" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 252,
+				"Pedestrian Volume Average" : 195,
+				"Increase%" : 29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 807,
+				"Pedestrian Volume Average" : 60,
+				"Increase%" : 1245
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 344,
+				"Pedestrian Volume Average" : 885,
+				"Increase%" : -61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 97,
+				"Pedestrian Volume Average" : 79,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 183,
+				"Pedestrian Volume Average" : 118,
+				"Increase%" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 73,
+				"Pedestrian Volume Average" : 78,
+				"Increase%" : -6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1226,
+				"Pedestrian Volume Average" : 78,
+				"Increase%" : 1472
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 44,
+				"Pedestrian Volume Average" : 42,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 27,
+				"Pedestrian Volume Average" : 30,
+				"Increase%" : -10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 918,
+				"Pedestrian Volume Average" : 556,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 2067,
+				"Pedestrian Volume Average" : 1040,
+				"Increase%" : 99
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 43,
+				"Pedestrian Volume Average" : 36,
+				"Increase%" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1182,
+				"Pedestrian Volume Average" : 858,
+				"Increase%" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 780,
+				"Pedestrian Volume Average" : 1486,
+				"Increase%" : -48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 289,
+				"Pedestrian Volume Average" : 265,
+				"Increase%" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 475,
+				"Pedestrian Volume Average" : 407,
+				"Increase%" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 241,
+				"Pedestrian Volume Average" : 191,
+				"Increase%" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 350,
+				"Pedestrian Volume Average" : 253,
+				"Increase%" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 296,
+				"Pedestrian Volume Average" : 232,
+				"Increase%" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 140,
+				"Pedestrian Volume Average" : 102,
+				"Increase%" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 278,
+				"Pedestrian Volume Average" : 284,
+				"Increase%" : -2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 349,
+				"Pedestrian Volume Average" : 245,
+				"Increase%" : 42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 258,
+				"Pedestrian Volume Average" : 100,
+				"Increase%" : 158
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1692,
+				"Pedestrian Volume Average" : 351,
+				"Increase%" : 382
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 90,
+				"Pedestrian Volume Average" : 61,
+				"Increase%" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 626,
+				"Pedestrian Volume Average" : 382,
+				"Increase%" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "14",
+				"Pedestrian Volume BLM" : 1527,
+				"Pedestrian Volume Average" : 860,
+				"Increase%" : 78
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 2467,
+				"Pedestrian Volume Average" : 1620,
+				"Increase%" : 52
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1754,
+				"Pedestrian Volume Average" : 972,
+				"Increase%" : 80
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1896,
+				"Pedestrian Volume Average" : 945,
+				"Increase%" : 101
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 2355,
+				"Pedestrian Volume Average" : 1058,
+				"Increase%" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1351,
+				"Pedestrian Volume Average" : 544,
+				"Increase%" : 148
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 712,
+				"Pedestrian Volume Average" : 607,
+				"Increase%" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 188,
+				"Pedestrian Volume Average" : 284,
+				"Increase%" : -34
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 248,
+				"Pedestrian Volume Average" : 270,
+				"Increase%" : -8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 96,
+				"Pedestrian Volume Average" : 82,
+				"Increase%" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 42,
+				"Pedestrian Volume Average" : 46,
+				"Increase%" : -9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 63,
+				"Pedestrian Volume Average" : 63,
+				"Increase%" : 0
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 235,
+				"Pedestrian Volume Average" : 246,
+				"Increase%" : -4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 681,
+				"Pedestrian Volume Average" : 165,
+				"Increase%" : 313
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 895,
+				"Pedestrian Volume Average" : 432,
+				"Increase%" : 107
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 590,
+				"Pedestrian Volume Average" : 84,
+				"Increase%" : 602
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 638,
+				"Pedestrian Volume Average" : 73,
+				"Increase%" : 774
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1090,
+				"Pedestrian Volume Average" : 417,
+				"Increase%" : 161
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1178,
+				"Pedestrian Volume Average" : 119,
+				"Increase%" : 890
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1794,
+				"Pedestrian Volume Average" : 1454,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 172,
+				"Pedestrian Volume Average" : 94,
+				"Increase%" : 83
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 493,
+				"Pedestrian Volume Average" : 457,
+				"Increase%" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1079,
+				"Pedestrian Volume Average" : 943,
+				"Increase%" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 760,
+				"Pedestrian Volume Average" : 617,
+				"Increase%" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 273,
+				"Pedestrian Volume Average" : 174,
+				"Increase%" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 846,
+				"Pedestrian Volume Average" : 290,
+				"Increase%" : 192
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 461,
+				"Pedestrian Volume Average" : 299,
+				"Increase%" : 54
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 863,
+				"Pedestrian Volume Average" : 306,
+				"Increase%" : 182
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 249,
+				"Pedestrian Volume Average" : 168,
+				"Increase%" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 309,
+				"Pedestrian Volume Average" : 70,
+				"Increase%" : 341
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 279,
+				"Pedestrian Volume Average" : 790,
+				"Increase%" : -65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 116,
+				"Pedestrian Volume Average" : 63,
+				"Increase%" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 167,
+				"Pedestrian Volume Average" : 103,
+				"Increase%" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 45,
+				"Pedestrian Volume Average" : 49,
+				"Increase%" : -8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1038,
+				"Pedestrian Volume Average" : 84,
+				"Increase%" : 1136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 53,
+				"Pedestrian Volume Average" : 48,
+				"Increase%" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 34,
+				"Pedestrian Volume Average" : 33,
+				"Increase%" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1574,
+				"Pedestrian Volume Average" : 535,
+				"Increase%" : 194
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 2536,
+				"Pedestrian Volume Average" : 998,
+				"Increase%" : 154
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 31,
+				"Pedestrian Volume Average" : 30,
+				"Increase%" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1426,
+				"Pedestrian Volume Average" : 884,
+				"Increase%" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 403,
+				"Pedestrian Volume Average" : 518,
+				"Increase%" : -22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 230,
+				"Pedestrian Volume Average" : 238,
+				"Increase%" : -3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 478,
+				"Pedestrian Volume Average" : 319,
+				"Increase%" : 50
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 173,
+				"Pedestrian Volume Average" : 143,
+				"Increase%" : 21
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 393,
+				"Pedestrian Volume Average" : 258,
+				"Increase%" : 52
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 308,
+				"Pedestrian Volume Average" : 204,
+				"Increase%" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 161,
+				"Pedestrian Volume Average" : 90,
+				"Increase%" : 79
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 310,
+				"Pedestrian Volume Average" : 279,
+				"Increase%" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 336,
+				"Pedestrian Volume Average" : 244,
+				"Increase%" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 182,
+				"Pedestrian Volume Average" : 95,
+				"Increase%" : 92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 3673,
+				"Pedestrian Volume Average" : 334,
+				"Increase%" : 1000
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 72,
+				"Pedestrian Volume Average" : 55,
+				"Increase%" : 31
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1045,
+				"Pedestrian Volume Average" : 333,
+				"Increase%" : 214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "15",
+				"Pedestrian Volume BLM" : 1556,
+				"Pedestrian Volume Average" : 940,
+				"Increase%" : 66
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 2088,
+				"Pedestrian Volume Average" : 1432,
+				"Increase%" : 46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1238,
+				"Pedestrian Volume Average" : 761,
+				"Increase%" : 63
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 2452,
+				"Pedestrian Volume Average" : 976,
+				"Increase%" : 151
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 2740,
+				"Pedestrian Volume Average" : 1002,
+				"Increase%" : 173
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1323,
+				"Pedestrian Volume Average" : 510,
+				"Increase%" : 159
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 882,
+				"Pedestrian Volume Average" : 556,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 173,
+				"Pedestrian Volume Average" : 253,
+				"Increase%" : -32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 215,
+				"Pedestrian Volume Average" : 236,
+				"Increase%" : -9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 126,
+				"Pedestrian Volume Average" : 65,
+				"Increase%" : 94
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 45,
+				"Pedestrian Volume Average" : 50,
+				"Increase%" : -10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 76,
+				"Pedestrian Volume Average" : 69,
+				"Increase%" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 230,
+				"Pedestrian Volume Average" : 248,
+				"Increase%" : -7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 813,
+				"Pedestrian Volume Average" : 147,
+				"Increase%" : 453
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 814,
+				"Pedestrian Volume Average" : 343,
+				"Increase%" : 137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 380,
+				"Pedestrian Volume Average" : 84,
+				"Increase%" : 352
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 467,
+				"Pedestrian Volume Average" : 67,
+				"Increase%" : 597
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1225,
+				"Pedestrian Volume Average" : 418,
+				"Increase%" : 193
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1116,
+				"Pedestrian Volume Average" : 107,
+				"Increase%" : 943
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 2709,
+				"Pedestrian Volume Average" : 1453,
+				"Increase%" : 86
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 202,
+				"Pedestrian Volume Average" : 90,
+				"Increase%" : 124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 457,
+				"Pedestrian Volume Average" : 411,
+				"Increase%" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 974,
+				"Pedestrian Volume Average" : 797,
+				"Increase%" : 22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 586,
+				"Pedestrian Volume Average" : 398,
+				"Increase%" : 47
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 186,
+				"Pedestrian Volume Average" : 113,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 782,
+				"Pedestrian Volume Average" : 264,
+				"Increase%" : 196
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 474,
+				"Pedestrian Volume Average" : 289,
+				"Increase%" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1040,
+				"Pedestrian Volume Average" : 285,
+				"Increase%" : 265
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 321,
+				"Pedestrian Volume Average" : 152,
+				"Increase%" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 380,
+				"Pedestrian Volume Average" : 57,
+				"Increase%" : 567
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 305,
+				"Pedestrian Volume Average" : 752,
+				"Increase%" : -59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 116,
+				"Pedestrian Volume Average" : 55,
+				"Increase%" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 179,
+				"Pedestrian Volume Average" : 94,
+				"Increase%" : 90
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 52,
+				"Pedestrian Volume Average" : 59,
+				"Increase%" : -12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 375,
+				"Pedestrian Volume Average" : 81,
+				"Increase%" : 363
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 60,
+				"Pedestrian Volume Average" : 57,
+				"Increase%" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 36,
+				"Pedestrian Volume Average" : 40,
+				"Increase%" : -10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 4092,
+				"Pedestrian Volume Average" : 507,
+				"Increase%" : 707
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 3813,
+				"Pedestrian Volume Average" : 902,
+				"Increase%" : 323
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 37,
+				"Pedestrian Volume Average" : 35,
+				"Increase%" : 6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 1722,
+				"Pedestrian Volume Average" : 837,
+				"Increase%" : 106
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 301,
+				"Pedestrian Volume Average" : 189,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 155,
+				"Pedestrian Volume Average" : 158,
+				"Increase%" : -2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 482,
+				"Pedestrian Volume Average" : 298,
+				"Increase%" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 144,
+				"Pedestrian Volume Average" : 114,
+				"Increase%" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 413,
+				"Pedestrian Volume Average" : 241,
+				"Increase%" : 71
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 279,
+				"Pedestrian Volume Average" : 193,
+				"Increase%" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 150,
+				"Pedestrian Volume Average" : 91,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 246,
+				"Pedestrian Volume Average" : 283,
+				"Increase%" : -13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 430,
+				"Pedestrian Volume Average" : 247,
+				"Increase%" : 74
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 150,
+				"Pedestrian Volume Average" : 88,
+				"Increase%" : 70
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 3847,
+				"Pedestrian Volume Average" : 332,
+				"Increase%" : 1059
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 69,
+				"Pedestrian Volume Average" : 48,
+				"Increase%" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 4816,
+				"Pedestrian Volume Average" : 323,
+				"Increase%" : 1391
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "16",
+				"Pedestrian Volume BLM" : 2069,
+				"Pedestrian Volume Average" : 952,
+				"Increase%" : 117
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 1356,
+				"Pedestrian Volume Average" : 980,
+				"Increase%" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 691,
+				"Pedestrian Volume Average" : 453,
+				"Increase%" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 2370,
+				"Pedestrian Volume Average" : 859,
+				"Increase%" : 176
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 2503,
+				"Pedestrian Volume Average" : 696,
+				"Increase%" : 260
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 1340,
+				"Pedestrian Volume Average" : 482,
+				"Increase%" : 178
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 910,
+				"Pedestrian Volume Average" : 495,
+				"Increase%" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 157,
+				"Pedestrian Volume Average" : 181,
+				"Increase%" : -13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 181,
+				"Pedestrian Volume Average" : 201,
+				"Increase%" : -10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 141,
+				"Pedestrian Volume Average" : 63,
+				"Increase%" : 124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 67,
+				"Pedestrian Volume Average" : 47,
+				"Increase%" : 43
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 76,
+				"Pedestrian Volume Average" : 68,
+				"Increase%" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 272,
+				"Pedestrian Volume Average" : 238,
+				"Increase%" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 794,
+				"Pedestrian Volume Average" : 119,
+				"Increase%" : 567
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 885,
+				"Pedestrian Volume Average" : 194,
+				"Increase%" : 356
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 637,
+				"Pedestrian Volume Average" : 70,
+				"Increase%" : 810
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 646,
+				"Pedestrian Volume Average" : 39,
+				"Increase%" : 1556
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 765,
+				"Pedestrian Volume Average" : 372,
+				"Increase%" : 106
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 445,
+				"Pedestrian Volume Average" : 88,
+				"Increase%" : 406
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 3033,
+				"Pedestrian Volume Average" : 1359,
+				"Increase%" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 206,
+				"Pedestrian Volume Average" : 79,
+				"Increase%" : 161
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 533,
+				"Pedestrian Volume Average" : 398,
+				"Increase%" : 34
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 716,
+				"Pedestrian Volume Average" : 509,
+				"Increase%" : 41
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 447,
+				"Pedestrian Volume Average" : 296,
+				"Increase%" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 141,
+				"Pedestrian Volume Average" : 90,
+				"Increase%" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 884,
+				"Pedestrian Volume Average" : 227,
+				"Increase%" : 289
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 553,
+				"Pedestrian Volume Average" : 203,
+				"Increase%" : 172
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 630,
+				"Pedestrian Volume Average" : 252,
+				"Increase%" : 150
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 361,
+				"Pedestrian Volume Average" : 152,
+				"Increase%" : 138
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 1081,
+				"Pedestrian Volume Average" : 41,
+				"Increase%" : 2537
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 405,
+				"Pedestrian Volume Average" : 595,
+				"Increase%" : -32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 110,
+				"Pedestrian Volume Average" : 45,
+				"Increase%" : 144
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 193,
+				"Pedestrian Volume Average" : 92,
+				"Increase%" : 110
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 35,
+				"Pedestrian Volume Average" : 40,
+				"Increase%" : -13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 267,
+				"Pedestrian Volume Average" : 49,
+				"Increase%" : 445
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 53,
+				"Pedestrian Volume Average" : 46,
+				"Increase%" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 39,
+				"Pedestrian Volume Average" : 36,
+				"Increase%" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 2033,
+				"Pedestrian Volume Average" : 381,
+				"Increase%" : 434
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 2935,
+				"Pedestrian Volume Average" : 691,
+				"Increase%" : 325
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 40,
+				"Pedestrian Volume Average" : 36,
+				"Increase%" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 1651,
+				"Pedestrian Volume Average" : 642,
+				"Increase%" : 157
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 213,
+				"Pedestrian Volume Average" : 108,
+				"Increase%" : 97
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 98,
+				"Pedestrian Volume Average" : 116,
+				"Increase%" : -16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 286,
+				"Pedestrian Volume Average" : 152,
+				"Increase%" : 88
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 108,
+				"Pedestrian Volume Average" : 85,
+				"Increase%" : 27
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 366,
+				"Pedestrian Volume Average" : 164,
+				"Increase%" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 284,
+				"Pedestrian Volume Average" : 165,
+				"Increase%" : 72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 140,
+				"Pedestrian Volume Average" : 81,
+				"Increase%" : 73
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 236,
+				"Pedestrian Volume Average" : 232,
+				"Increase%" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 405,
+				"Pedestrian Volume Average" : 223,
+				"Increase%" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 165,
+				"Pedestrian Volume Average" : 110,
+				"Increase%" : 50
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 897,
+				"Pedestrian Volume Average" : 212,
+				"Increase%" : 323
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 63,
+				"Pedestrian Volume Average" : 46,
+				"Increase%" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 2447,
+				"Pedestrian Volume Average" : 247,
+				"Increase%" : 891
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "17",
+				"Pedestrian Volume BLM" : 1547,
+				"Pedestrian Volume Average" : 759,
+				"Increase%" : 104
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651532, -37.8134944 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (North)",
+				"Latitude" : -37.8134944,
+				"Longitude" : 144.9651532,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 560,
+				"Pedestrian Volume Average" : 402,
+				"Increase%" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9651672, -37.81380667 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke Street Mall (South)",
+				"Latitude" : -37.81380667,
+				"Longitude" : 144.9651672,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 339,
+				"Pedestrian Volume Average" : 168,
+				"Increase%" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9642949, -37.81101523 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central",
+				"Latitude" : -37.81101523,
+				"Longitude" : 144.9642949,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 1813,
+				"Pedestrian Volume Average" : 687,
+				"Increase%" : 164
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660878, -37.81487988 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Town Hall (West)",
+				"Latitude" : -37.81487988,
+				"Longitude" : 144.9660878,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 1149,
+				"Pedestrian Volume Average" : 405,
+				"Increase%" : 184
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9678766, -37.81874249 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Princes Bridge",
+				"Latitude" : -37.81874249,
+				"Longitude" : 144.9678766,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 778,
+				"Pedestrian Volume Average" : 313,
+				"Increase%" : 149
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655826, -37.81911704 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders Street Station Underpass",
+				"Latitude" : -37.81911704,
+				"Longitude" : 144.9655826,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 440,
+				"Pedestrian Volume Average" : 331,
+				"Increase%" : 33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.971694, -37.81862929 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Birrarung Marr",
+				"Latitude" : -37.81862929,
+				"Longitude" : 144.971694,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 70,
+				"Pedestrian Volume Average" : 74,
+				"Increase%" : -5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471751, -37.82293543 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Webb Bridge",
+				"Latitude" : -37.82293543,
+				"Longitude" : 144.9471751,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 93,
+				"Pedestrian Volume Average" : 90,
+				"Increase%" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9510256, -37.81982992 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southern Cross Station",
+				"Latitude" : -37.81982992,
+				"Longitude" : 144.9510256,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 104,
+				"Pedestrian Volume Average" : 44,
+				"Increase%" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9471055, -37.81876473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Victoria Point",
+				"Latitude" : -37.81876473,
+				"Longitude" : 144.9471055,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 66,
+				"Pedestrian Volume Average" : 47,
+				"Increase%" : 40
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.939707, -37.81564989 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Waterfront City",
+				"Latitude" : -37.81564989,
+				"Longitude" : 144.939707,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 42,
+				"Pedestrian Volume Average" : 43,
+				"Increase%" : -2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.942924, -37.81457987 ]
+			},
+			"properties" : {
+				"Sensor Location" : "New Quay",
+				"Latitude" : -37.81457987,
+				"Longitude" : 144.942924,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 125,
+				"Pedestrian Volume Average" : 149,
+				"Increase%" : -16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.962919, -37.82011242 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Sandridge Bridge",
+				"Latitude" : -37.82011242,
+				"Longitude" : 144.962919,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 389,
+				"Pedestrian Volume Average" : 92,
+				"Increase%" : 323
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.965499, -37.8156419 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins St (North)",
+				"Latitude" : -37.8156419,
+				"Longitude" : 144.965499,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 245,
+				"Pedestrian Volume Average" : 110,
+				"Increase%" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9732359, -37.81362542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (South)",
+				"Latitude" : -37.81362542,
+				"Longitude" : 144.9732359,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 113,
+				"Pedestrian Volume Average" : 43,
+				"Increase%" : 163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9730535, -37.81344861 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Collins Place (North)",
+				"Latitude" : -37.81344861,
+				"Longitude" : 144.9730535,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 110,
+				"Pedestrian Volume Average" : 22,
+				"Increase%" : 400
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9655067, -37.81237202 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Swanston St (North)",
+				"Latitude" : -37.81237202,
+				"Longitude" : 144.9655067,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 617,
+				"Pedestrian Volume Average" : 293,
+				"Increase%" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9682466, -37.81172913 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Chinatown-Lt Bourke St (South)",
+				"Latitude" : -37.81172913,
+				"Longitude" : 144.9682466,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 321,
+				"Pedestrian Volume Average" : 87,
+				"Increase%" : 269
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650682, -37.81786445 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Elizabeth St (East)",
+				"Latitude" : -37.81786445,
+				"Longitude" : 144.9650682,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 1640,
+				"Pedestrian Volume Average" : 1014,
+				"Increase%" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9545275, -37.81909256 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (South)",
+				"Latitude" : -37.81909256,
+				"Longitude" : 144.9545275,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 184,
+				"Pedestrian Volume Average" : 75,
+				"Increase%" : 145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.954492, -37.81887962 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Spencer St-Collins St (North)",
+				"Latitude" : -37.81887962,
+				"Longitude" : 144.954492,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 464,
+				"Pedestrian Volume Average" : 321,
+				"Increase%" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9560443, -37.82401776 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Convention Exhibition Centre",
+				"Latitude" : -37.82401776,
+				"Longitude" : 144.9560443,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 353,
+				"Pedestrian Volume Average" : 191,
+				"Increase%" : 85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.960494, -37.80869542 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Elizabeth St (West)",
+				"Latitude" : -37.80869542,
+				"Longitude" : 144.960494,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 371,
+				"Pedestrian Volume Average" : 255,
+				"Increase%" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9564469, -37.80606888 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QV Market-Peel St",
+				"Latitude" : -37.80606888,
+				"Longitude" : 144.9564469,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 102,
+				"Pedestrian Volume Average" : 64,
+				"Increase%" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9687931, -37.82129924 ]
+			},
+			"properties" : {
+				"Sensor Location" : "The Arts Centre",
+				"Latitude" : -37.82129924,
+				"Longitude" : 144.9687931,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 289,
+				"Pedestrian Volume Average" : 175,
+				"Increase%" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9686345, -37.81965808 ]
+			},
+			"properties" : {
+				"Sensor Location" : "St Kilda Rd-Alexandra Gardens",
+				"Latitude" : -37.81965808,
+				"Longitude" : 144.9686345,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 170,
+				"Pedestrian Volume Average" : 96,
+				"Increase%" : 77
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665681, -37.81121849 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St (South)",
+				"Latitude" : -37.81121849,
+				"Longitude" : 144.9665681,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 470,
+				"Pedestrian Volume Average" : 192,
+				"Increase%" : 145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9665891, -37.8016968 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (West)",
+				"Latitude" : -37.8016968,
+				"Longitude" : 144.9665891,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 542,
+				"Pedestrian Volume Average" : 99,
+				"Increase%" : 447
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9741505, -37.81537985 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders St-Spark La",
+				"Latitude" : -37.81537985,
+				"Longitude" : 144.9741505,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 118,
+				"Pedestrian Volume Average" : 27,
+				"Increase%" : 337
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9650888, -37.82017828 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Southbank",
+				"Latitude" : -37.82017828,
+				"Longitude" : 144.9650888,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 427,
+				"Pedestrian Volume Average" : 338,
+				"Increase%" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9612106, -37.81652527 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Queen St (West)",
+				"Latitude" : -37.81652527,
+				"Longitude" : 144.9612106,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 108,
+				"Pedestrian Volume Average" : 39,
+				"Increase%" : 177
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667145, -37.80310271 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lygon St (East)",
+				"Latitude" : -37.80310271,
+				"Longitude" : 144.9667145,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 207,
+				"Pedestrian Volume Average" : 63,
+				"Increase%" : 229
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9699575, -37.81379749 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Alfred Place",
+				"Latitude" : -37.81379749,
+				"Longitude" : 144.9699575,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 38,
+				"Pedestrian Volume Average" : 48,
+				"Increase%" : -21
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9722759, -37.80999341 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St-Spring St (West)",
+				"Latitude" : -37.80999341,
+				"Longitude" : 144.9722759,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 203,
+				"Pedestrian Volume Average" : 32,
+				"Increase%" : 534
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9641178, -37.79844525 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Monash Rd-Swanston St (West)",
+				"Latitude" : -37.79844525,
+				"Longitude" : 144.9641178,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 37,
+				"Pedestrian Volume Average" : 28,
+				"Increase%" : 32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644038, -37.79690473 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Tin Alley-Swanston St (West)",
+				"Latitude" : -37.79690473,
+				"Longitude" : 144.9644038,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 22,
+				"Pedestrian Volume Average" : 19,
+				"Increase%" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9660938, -37.81414074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Little Collins St-Swanston St (East)",
+				"Latitude" : -37.81414074,
+				"Longitude" : 144.9660938,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 644,
+				"Pedestrian Volume Average" : 231,
+				"Increase%" : 179
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668973, -37.81668633 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Flinders La-Swanston St (West)",
+				"Latitude" : -37.81668633,
+				"Longitude" : 144.9668973,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 1510,
+				"Pedestrian Volume Average" : 465,
+				"Increase%" : 225
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615673, -37.80240719 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Pelham St (South)",
+				"Latitude" : -37.80240719,
+				"Longitude" : 144.9615673,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 36,
+				"Pedestrian Volume Average" : 23,
+				"Increase%" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9622008, -37.81160331 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Melbourne Central-Elizabeth St (East)",
+				"Latitude" : -37.81160331,
+				"Longitude" : 144.9622008,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 749,
+				"Pedestrian Volume Average" : 411,
+				"Increase%" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.958667, -37.80631581 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Queen St (East)",
+				"Latitude" : -37.80631581,
+				"Longitude" : 144.958667,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 157,
+				"Pedestrian Volume Average" : 64,
+				"Increase%" : 145
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9595606, -37.80730067 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Therry St (South)",
+				"Latitude" : -37.80730067,
+				"Longitude" : 144.9595606,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 111,
+				"Pedestrian Volume Average" : 109,
+				"Increase%" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9672101, -37.79808191 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Faraday St-Lygon St (West)",
+				"Latitude" : -37.79808191,
+				"Longitude" : 144.9672101,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 299,
+				"Pedestrian Volume Average" : 108,
+				"Increase%" : 177
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9590632, -37.80841814 ]
+			},
+			"properties" : {
+				"Sensor Location" : "QVM-Franklin St (North)",
+				"Latitude" : -37.80841814,
+				"Longitude" : 144.9590632,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 124,
+				"Pedestrian Volume Average" : 86,
+				"Increase%" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9619401, -37.81252157 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Elizabeth St-Lonsdale St (South)",
+				"Latitude" : -37.81252157,
+				"Longitude" : 144.9619401,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 197,
+				"Pedestrian Volume Average" : 98,
+				"Increase%" : 101
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9615331, -37.81234775 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Lonsdale St - Elizabeth St (North)",
+				"Latitude" : -37.81234775,
+				"Longitude" : 144.9615331,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 239,
+				"Pedestrian Volume Average" : 118,
+				"Increase%" : 103
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.950256, -37.8176735 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St Bridge",
+				"Latitude" : -37.8176735,
+				"Longitude" : 144.950256,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 94,
+				"Pedestrian Volume Average" : 54,
+				"Increase%" : 74
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9535808, -37.81686074 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Bourke St - Spencer St (North)",
+				"Latitude" : -37.81686074,
+				"Longitude" : 144.9535808,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 194,
+				"Pedestrian Volume Average" : 173,
+				"Increase%" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9630912, -37.80767455 ]
+			},
+			"properties" : {
+				"Sensor Location" : "RMIT Building 14",
+				"Latitude" : -37.80767455,
+				"Longitude" : 144.9630912,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 278,
+				"Pedestrian Volume Average" : 157,
+				"Increase%" : 77
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9621652, -37.80996494 ]
+			},
+			"properties" : {
+				"Sensor Location" : "La Trobe St (North)",
+				"Latitude" : -37.80996494,
+				"Longitude" : 144.9621652,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 129,
+				"Pedestrian Volume Average" : 97,
+				"Increase%" : 33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9667557, -37.81333081 ]
+			},
+			"properties" : {
+				"Sensor Location" : "231 Bourke St",
+				"Latitude" : -37.81333081,
+				"Longitude" : 144.9667557,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 446,
+				"Pedestrian Volume Average" : 149,
+				"Increase%" : 199
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9579228, -37.79949544 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Royal Pde - Grattan St",
+				"Latitude" : -37.79949544,
+				"Longitude" : 144.9579228,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 40,
+				"Pedestrian Volume Average" : 27,
+				"Increase%" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9668064, -37.81569416 ]
+			},
+			"properties" : {
+				"Sensor Location" : "Swanston St - City Square",
+				"Latitude" : -37.81569416,
+				"Longitude" : 144.9668064,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 508,
+				"Pedestrian Volume Average" : 169,
+				"Increase%" : 201
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.9644429, -37.81057845 ]
+			},
+			"properties" : {
+				"Sensor Location" : "State Library - New",
+				"Latitude" : -37.81057845,
+				"Longitude" : 144.9644429,
+				"Hour" : "18",
+				"Pedestrian Volume BLM" : 952,
+				"Pedestrian Volume Average" : 455,
+				"Increase%" : 109
+			}
+		}
+	]
+}
